@@ -1,6 +1,9 @@
 # smooth-wotlk-routes
 Exported routes for gathering professions in wotlk classic
 
+## How to submit routes to be added to the collection
+Head over to [New route template | Issues](https://github.com/hanneman123/smooth-wotlk-routes/issues/new/choose) and follow the template
+
 # Import Strings
 Copy the following strings and paste them in the import text field in the Routes addon options `/routes`
 ## Mining
