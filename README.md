@@ -1,8 +1,8 @@
 # Smooth Wotlk Routes
 Exported routes for gathering professions in wotlk classic
 To get the best setup use the following addons
-- [Routes | Import-Export](https://www.curseforge.com/wow/addons/routes-import-export)
-- [FarmHud](https://www.curseforge.com/wow/addons/farmhud/)
+- [Routes Import-Export Addon | CurseForge](https://www.curseforge.com/wow/addons/routes-import-export)
+- [FarmHud Addon | CurseForge](https://www.curseforge.com/wow/addons/farmhud/)
 _(Farmhud is currently not added to curseforge wotlk so you need to manually download and paste the addon in the wow folder)_
 
 Good introduction video for how to use these addons for farming
