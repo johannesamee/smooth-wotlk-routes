@@ -5,8 +5,9 @@ To get the best setup use the following addons
 - [FarmHud Addon | CurseForge](https://www.curseforge.com/wow/addons/farmhud/) - Very comfortable addon to center the mini map to your screen and only show the nodes.
 _(Farmhud is currently not added to curseforge wotlk so you need to manually download and paste the addon in the wow folder)_
 
-Good introduction video for how to use these addons for farming
-[https://youtu.be/Mlx8AZ8au9o](WoW Addon Setup for Mindless Mining & Herbalism, Farmhud & Routes | WTBGold - YouTube)
+Good introduction video for how to use these addons for farming:
+
+[WoW Addon Setup for Mindless Mining & Herbalism | WTBGoldYouTube](https://youtu.be/Mlx8AZ8au9o)
 
 ## How to submit routes to be added to the collection
 Head over to [New route template | Issues](https://github.com/hanneman123/smooth-wotlk-routes/issues/new/choose) and follow the template
