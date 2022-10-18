@@ -1,4 +1,6 @@
 # Smooth Wotlk Routes
+<details><summary>"Required" Addons</summary>
+ 
 Exported routes for gathering professions in wotlk classic
 To get the best setup use the following addons
 - [Routes Import-Export Addon | CurseForge](https://www.curseforge.com/wow/addons/routes-import-export) - This is the core addon that adds the routes functionality to map & minimap
@@ -9,6 +11,8 @@ Good introduction video for how to use these addons for farming:
 
 [WoW Addon Setup for Mindless Mining & Herbalism | WTBGoldYouTube](https://youtu.be/Mlx8AZ8au9o)
 
+</details>
+ 
 ## How start using routes-finder
 Head over to the page for your gathering profession
 
@@ -19,10 +23,11 @@ Head over to the page for your gathering profession
 Check out the short description in the **[`How to use the routes-finder | Start Here`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/55)** announcement post for a very short how-to
 
 ## How to post your own routes!
-Head over to **[`New Route`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route)** section and just create a "New Discussion" in the top right corner!
+**[`New Route`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route)** 
 
-# ADD TEMPLATE LINK BELOW!!!!!!!!!!!!!!!!
-Try to follow the template to make it easier to browse
+Create a "New Discussion" in the top right corner!
+
+Try to follow the [`New Route | Template`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/119) to make it easier to browse
 
 ## How to navigate start page smoothly (And almost any page in general)
 Use the navigation in the top-left corner
