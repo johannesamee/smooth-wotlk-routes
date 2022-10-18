@@ -18,7 +18,7 @@ Here you can target specific ores, herbs, zones etc
 ### **[`Mining Routes`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/mining)**
 
 ### **[`Herbalism Routes`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/herbalism)** _Coming Soon_
-Or check out the [Mining Leveling 1-450 Section]([url](https://github.com/hanneman123/smooth-wotlk-routes/blob/main/README.md#import-strings-for-mining-1-450)) below
+Or check out the [Mining Leveling 1-450 Section](https://github.com/hanneman123/smooth-wotlk-routes/blob/main/README.md#import-strings-for-mining-1-450) below
 
 ## How to post your own routes!
 Go to the **[`New Route`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route)** section and create a "New Discussion" in the top right corner!
