@@ -13,7 +13,7 @@ Good introduction video for how to use these addons for farming:
 
 </details>
  
-## How start using routes-finder
+## How to start using routes-finder
 Head over to the page for your gathering profession
 
 **[`Mining Routes`](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/mining)**
