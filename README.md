@@ -34,6 +34,9 @@ Try to follow the [`New Route | Template`](https://github.com/hanneman123/smooth
 
 # Import Strings for Mining `1-450`
 Copy the following strings and paste them in the import text field in the Routes addon options `/routes`
+
+## Azeroth `1-275`
+
 ### `1-75` Durotar
 <details><summary>Image of route</summary>
 
