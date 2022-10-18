@@ -9,10 +9,20 @@ Good introduction video for how to use these addons for farming:
 
 [WoW Addon Setup for Mindless Mining & Herbalism | WTBGoldYouTube](https://youtu.be/Mlx8AZ8au9o)
 
-## How to submit routes to be added to the collection
-Head over to [New route template | Issues](https://github.com/hanneman123/smooth-wotlk-routes/issues/new/choose) and follow the template
+## How start using routes-finder
+Head over to the page for your gathering profession:
+- [Mining Routes](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/mining)
+- [Herbalism Routes | Coming Soon](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/herbalism)
 
-## How to navigate smoothly
+Check out the short description in the [How to use the routes-finder | Start Here](https://github.com/hanneman123/smooth-wotlk-routes/discussions/55) announcement post for a very short how-to
+
+## How to post your own routes!
+Head over to [New Route](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route) section and just create a post!
+
+# ADD TEMPLATE LINK BELOW!!!!!!!!!!!!!!!!
+Try to follow the template to make it easier to browse
+
+## How to navigate start page smoothly (And almost any page in general)
 Use the navigation in the top-left corner
 ![image](https://user-images.githubusercontent.com/5220547/195694016-6675cb9c-35ab-418c-913a-a5795b2887db.png)
 
