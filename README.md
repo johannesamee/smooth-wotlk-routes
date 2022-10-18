@@ -17,7 +17,7 @@ Head over to the page for your gathering profession:
 Check out the short description in the [How to use the routes-finder | Start Here](https://github.com/hanneman123/smooth-wotlk-routes/discussions/55) announcement post for a very short how-to
 
 ## How to post your own routes!
-Head over to [New Route](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route) section and just create a post!
+Head over to [New Route](https://github.com/hanneman123/smooth-wotlk-routes/discussions/categories/new-route) section and just create a `New Discussion` in the top right corner!
 
 # ADD TEMPLATE LINK BELOW!!!!!!!!!!!!!!!!
 Try to follow the template to make it easier to browse
