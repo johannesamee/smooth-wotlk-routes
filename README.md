@@ -3,7 +3,8 @@ _Exported routes for easy mining & herbing in wotlk classic, ready for you_
 <details><summary>"Required" Addons</summary>
  
 To get the best setup use the following addons
-- [Routes Import-Export Addon | CurseForge](https://www.curseforge.com/wow/addons/routes-import-export) - This is the core addon that adds the routes functionality to map & minimap
+- [Routes Addon | CurseForge](https://www.curseforge.com/wow/addons/routes) - Core addon for creating & showing routes on the minimap
+- [Routes Import-Export Addon | CurseForge](https://www.curseforge.com/wow/addons/routes-import-export) - Adds further functionality for exporting and importing routes
 - [FarmHud Addon | CurseForge](https://www.curseforge.com/wow/addons/farmhud/) - Very comfortable addon to center the mini map to your screen and only show the nodes.
 _(Farmhud is currently not added to curseforge wotlk so you need to manually download and paste the addon in the wow folder)_
 
